@@ -1,0 +1,15 @@
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_3Sum_closest\lc_3Sum_closest\bin\Debug\net6.0\lc_3Sum_closest.exe
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_3Sum_closest\lc_3Sum_closest\bin\Debug\net6.0\lc_3Sum_closest.deps.json
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_3Sum_closest\lc_3Sum_closest\bin\Debug\net6.0\lc_3Sum_closest.runtimeconfig.json
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_3Sum_closest\lc_3Sum_closest\bin\Debug\net6.0\lc_3Sum_closest.dll
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_3Sum_closest\lc_3Sum_closest\bin\Debug\net6.0\lc_3Sum_closest.pdb
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_3Sum_closest\lc_3Sum_closest\obj\Debug\net6.0\lc_3Sum_closest.csproj.AssemblyReference.cache
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_3Sum_closest\lc_3Sum_closest\obj\Debug\net6.0\lc_3Sum_closest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_3Sum_closest\lc_3Sum_closest\obj\Debug\net6.0\lc_3Sum_closest.AssemblyInfoInputs.cache
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_3Sum_closest\lc_3Sum_closest\obj\Debug\net6.0\lc_3Sum_closest.AssemblyInfo.cs
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_3Sum_closest\lc_3Sum_closest\obj\Debug\net6.0\lc_3Sum_closest.csproj.CoreCompileInputs.cache
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_3Sum_closest\lc_3Sum_closest\obj\Debug\net6.0\lc_3Sum_closest.dll
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_3Sum_closest\lc_3Sum_closest\obj\Debug\net6.0\refint\lc_3Sum_closest.dll
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_3Sum_closest\lc_3Sum_closest\obj\Debug\net6.0\lc_3Sum_closest.pdb
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_3Sum_closest\lc_3Sum_closest\obj\Debug\net6.0\lc_3Sum_closest.genruntimeconfig.cache
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_3Sum_closest\lc_3Sum_closest\obj\Debug\net6.0\ref\lc_3Sum_closest.dll
