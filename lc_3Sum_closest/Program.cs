@@ -1,6 +1,6 @@
 ﻿
 int[] testNums = { 1, 1, 1, 1 }; 
-Console.WriteLine(Solution.ThreeSumClosest(testNums, 0));
+Console.WriteLine(Solution.ThreeSumClosest(testNums, -100));
 
 
 public class Solution
@@ -8,7 +8,7 @@ public class Solution
     static public int ThreeSumClosest(int[] nums, int target)
     {
         Array.Sort(nums);
-        int closest = int.MaxValue;
+        int closest = 2000000000;
 
         for (int i = 0; i < nums.Length - 2; i++)
         // for each num in nums
@@ -21,9 +21,9 @@ public class Solution
             while (j < k)
             {
                 int sum = nums[i] + nums[j] + nums[k];
-                // Console.WriteLine($"sum = {nums[i]} + {nums[j]} + {nums[k]} = {sum}");
+                Console.WriteLine($"sum = {nums[i]} + {nums[j]} + {nums[k]} = {sum}");
 
-                // Console.WriteLine($"{Math.Max(sum, target)} - {Math.Min(sum, target)} < {Math.Max(closest, target)} - {Math.Min(closest, target)} = {Math.Max(sum, target) - Math.Min(sum, target) < Math.Max(closest, target) - Math.Min(closest, target)}");
+                Console.WriteLine($"{Math.Max(sum, target)} - {Math.Min(sum, target)} < {Math.Max(closest, target)} - {Math.Min(closest, target)} = {Math.Max(sum, target) - Math.Min(sum, target) < Math.Max(closest, target) - Math.Min(closest, target)}");
                 if (Math.Max(sum, target) - Math.Min(sum, target) < Math.Max(closest, target) - Math.Min(closest, target)) 
                 // if difference between sum and target is less than difference between closest and target
                 {
